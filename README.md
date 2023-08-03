@@ -1,6 +1,7 @@
 
 
-![ezgif com-resize (1)](https://github.com/Parmita14/Parmita14/assets/94154419/15cd156d-a57c-46b6-a30b-188b5d9945cf)
+
+![t_AdobeExpress](https://github.com/Parmita14/Parmita14/assets/94154419/df9d7f3a-a9dd-4047-8109-fd1f7ee028a3)
 
 # 💫 About Me:
 🔭 I’m currently working on My Portfolio Website<br>👯 I’m looking to collaborate on FrontEnd Projects<br>🌱 I’m currently learning Javascript, Tailwind, React..<br>How to reach me : parmitaupadhyay3@gmail.com
