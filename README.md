@@ -2,7 +2,7 @@
 
 
 <!--![t_AdobeExpress](https://github.com/Parmita14/Parmita14/assets/94154419/df9d7f3a-a9dd-4047-8109-fd1f7ee028a3)-->
-<h1>Hey,<b> i'm Parmita Upadhyay</b></h1><hr>
+<h1>Hey,<b> I'm Parmita Upadhyay</b></h1><hr>
 
 # 💫 About Me:
 🔭 I’m currently working on My Portfolio Website<br>👯 I’m looking to collaborate on FrontEnd Projects<br>🌱 I’m currently learning Javascript, Tailwind, React..<br>How to reach me : parmitaupadhyay3@gmail.com
