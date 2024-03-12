@@ -5,7 +5,7 @@
 <h1>Hey,<b> I'm Parmita Upadhyay</b></h1><hr>
 
 # 💫 About Me:
-🔭 I’m currently learning MERN stack <br>👯 I’m looking to collaborate on FrontEnd Projects<br>How to reach me : parmitaupadhyay3@gmail.com
+🔭 I’m currently learning MERN stack <br>👯 I’m looking to collaborate on FrontEnd Projects<br>How to reach me : parmitaupadhyay17@gmail.com
 
 <!--![157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7](https://github.com/Parmita14/Parmita14/assets/94154419/30cd370e-f561-443c-b511-ff14af925cb9)-->
 
